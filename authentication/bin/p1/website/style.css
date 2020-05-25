@@ -1,0 +1,47 @@
+
+.chat_div{
+    background-color: #f2f2f2;
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.myForm input{
+    width: 100%;
+    text-align: left;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    display: block;
+    height: 40px;
+}
+
+.myForm input[type = submit]{
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.myForm input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+#profile_info {
+    background-color: #f2f2f2;
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#profile_info label{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    margin: auto;
+}
+
+.navlink:hover{
+    color:blue;
+}
+
